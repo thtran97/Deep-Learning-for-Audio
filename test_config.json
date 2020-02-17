@@ -1,0 +1,20 @@
+{
+    "exp_name" : "audio_classification_benchmark",
+    "dataset_path" : "/home/renault/Projects/Statet-of-the-Art/Dataset/freesound-audio-tagging/",
+    "csv_filename" : "train.csv",
+    "mode" : "train",
+    "train_valid_split_rate" : 0.8,
+    
+    "sampling_rate" : 16000,
+    "sample_duration" : 2,
+    
+    "batch_size" : 64,
+    "learning_rate" : 0.001,
+    "weight_decay" : 1e-5,
+    "learning_rate_patience" : 5,
+    "max_epoch" : 2,
+    
+    
+    "in_notebook" : 1, 
+    "end" : ""
+}
