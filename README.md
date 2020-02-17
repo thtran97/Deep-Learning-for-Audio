@@ -1,5 +1,5 @@
-# Audio_Event_Detection
-State-of-the-art in Audio Event Detection
+# Audio Classification & Sound Event Classification
+State-of-the-art in Audio Event Classification & Detection
 
 
 ### Dataset
