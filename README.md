@@ -1,4 +1,4 @@
-# Deep Learning with Audio  
+# Deep Learning for Audio  
 Implementation of State-of-the-arts in Audio Event Classification, Sound Event Detection (SED) and even more...in Pytorch 
 
 ----
